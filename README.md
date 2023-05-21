@@ -26,6 +26,7 @@ https://laythalqadhi.github.io/etch-a-sketch/
 ## Technologies Used
 
 - HTML
+- CSS
 - JavaScript
 
 Feel free to explore and have fun drawing with Etch-A-Sketch!
